@@ -1,0 +1,9 @@
+shared_dir/.nv
+shared_dir/.local
+shared_dir/.cache
+shared_dir/.byobu
+shared_dir/PetImages
+shared_dir/.bash_history
+shared_dir/.python_history
+shared_dir/__pycache__
+shared_dir/PetImages
